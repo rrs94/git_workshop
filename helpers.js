@@ -1,5 +1,5 @@
 const add = (number1, number2) => {
-  return 3;
+  return number1+number2;
 }
 
 const divide = (number1, number2) => {
